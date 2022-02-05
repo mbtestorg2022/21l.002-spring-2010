@@ -14,8 +14,45 @@ The first paper should be on _Hamlet_ or _Don Quixote_, the second on any other 
 Student Work (Contributions from course offered in Spring 2004)
 ---------------------------------------------------------------
 
-| TITLE | AUTHOR |
-| --- | --- |
-| The Value of Friendship ([PDF]({{< baseurl >}}/resources/mit21l_002s10_assn01)) | Courtesy of Meredith Brown. Used with permission. |
-| The Duality of Don Quixote's Character as shown through his Attitude towards Dulcinea of El Toboso ([PDF]({{< baseurl >}}/resources/mit21l_002s10_assn02)) | Courtesy of Jordan Wirfs-Brock. Used with permission. |
-| Moliere's _The Misanthrope_: Masking the Truth ([PDF]({{< baseurl >}}/resources/mit21l_002s10_assn03)) | Courtesy of Anne Yu. Used with permission.
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+TITLE
+{{< thclose >}}
+{{< thopen >}}
+AUTHOR
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+The Value of Friendship ([PDF]({{< baseurl >}}/resources/mit21l_002s10_assn01))
+{{< tdclose >}}
+{{< tdopen >}}
+Courtesy of Meredith Brown. Used with permission.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+The Duality of Don Quixote's Character as shown through his Attitude towards Dulcinea of El Toboso ([PDF]({{< baseurl >}}/resources/mit21l_002s10_assn02))
+{{< tdclose >}}
+{{< tdopen >}}
+Courtesy of Jordan Wirfs-Brock. Used with permission.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Moliere's _The Misanthrope_: Masking the Truth ([PDF]({{< baseurl >}}/resources/mit21l_002s10_assn03))
+{{< tdclose >}}
+{{< tdopen >}}
+Courtesy of Anne Yu. Used with permission.
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}

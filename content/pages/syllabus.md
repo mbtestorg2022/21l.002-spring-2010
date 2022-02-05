@@ -35,10 +35,39 @@ There will be **_no final exam_** in the class.
 
 Unexcused absence from class will result in a lowering of the final grade.
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| Papers | 80% |
-| Classroom Participation (Including Presentation) | 20% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Papers
+{{< tdclose >}}
+{{< tdopen >}}
+80%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Classroom Participation (Including Presentation)
+{{< tdclose >}}
+{{< tdopen >}}
+20%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 MIT Statement On Plagiarism
 ---------------------------
@@ -48,31 +77,333 @@ Plagiarism—use of another's intellectual work without acknowledgement—is a s
 Course Calendar
 ---------------
 
-| LEC # | TOPICS | KEY DATES |
-| --- | --- | --- |
-| 1 | Introductory | &nbsp; |
-| 2 | _Hamlet_ | &nbsp; |
-| 3 | _Hamlet_ (cont.) | &nbsp; |
-| 4 | _Hamlet_ (cont.) | &nbsp; |
-| 5 | _Hamlet_ (cont.) | &nbsp; |
-| 6 | _Hamlet_ (cont.) | &nbsp; |
-| 7 | _Meditations on First Philosophy_ | 1st paper due |
-| 8 | _Meditations on First Philosophy_ (cont.) | &nbsp; |
-| 9 | _Don Quixote_ (Part One) | &nbsp; |
-| 10 | _Don Quixote_ (Part One) (cont.) | &nbsp; |
-| 11 | _Reveries of the Solitary Walker_ | &nbsp; |
-| 12 | _Reveries of the Solitary Walker_ (cont.) | &nbsp; |
-| 13 | _Pride and Prejudice_ | &nbsp; |
-| 14 | _Pride and Prejudice_ (cont.) | 2nd paper due |
-| 15 | _Pride and Prejudice_ (cont.) | &nbsp; |
-| 16 | _Pride and Prejudice_ (cont.) | &nbsp; |
-| 17 | _Pride and Prejudice_ (cont.) | &nbsp; |
-| 18 | _Notes from Underground_ | &nbsp; |
-| 19 | _Notes from Underground_ (cont.) | &nbsp; |
-| 20 | _Beyond Good and Evil_ | &nbsp; |
-| 21 | _Beyond Good and Evil_ (cont.) | 3rd paper due |
-| 22 | _The Trial_ | &nbsp; |
-| 23 | _The Trial_ (cont.) | &nbsp; |
-| 24 | _Portrait of the Artist as a Young Man_ | &nbsp; |
-| 25 | _Portrait of the Artist as a Young Man (cont.)_ | &nbsp; |
-| 26 | _Poetry, Language, Thought_ ("Building Dwelling Thinking") | 4th paper due
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+LEC #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Introductory
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+_Hamlet_
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+_Hamlet_ (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+_Hamlet_ (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+_Hamlet_ (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+_Hamlet_ (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+_Meditations on First Philosophy_
+{{< tdclose >}}
+{{< tdopen >}}
+1st paper due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+_Meditations on First Philosophy_ (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+_Don Quixote_ (Part One)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+_Don Quixote_ (Part One) (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+_Reveries of the Solitary Walker_
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+_Reveries of the Solitary Walker_ (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+_Pride and Prejudice_
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+_Pride and Prejudice_ (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+2nd paper due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+_Pride and Prejudice_ (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+_Pride and Prejudice_ (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+_Pride and Prejudice_ (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+{{< tdopen >}}
+_Notes from Underground_
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19
+{{< tdclose >}}
+{{< tdopen >}}
+_Notes from Underground_ (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+{{< tdopen >}}
+_Beyond Good and Evil_
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+21
+{{< tdclose >}}
+{{< tdopen >}}
+_Beyond Good and Evil_ (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+3rd paper due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+22
+{{< tdclose >}}
+{{< tdopen >}}
+_The Trial_
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+23
+{{< tdclose >}}
+{{< tdopen >}}
+_The Trial_ (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+24
+{{< tdclose >}}
+{{< tdopen >}}
+_Portrait of the Artist as a Young Man_
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+25
+{{< tdclose >}}
+{{< tdopen >}}
+_Portrait of the Artist as a Young Man (cont.)_
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+26
+{{< tdclose >}}
+{{< tdopen >}}
+_Poetry, Language, Thought_ ("Building Dwelling Thinking")
+{{< tdclose >}}
+{{< tdopen >}}
+4th paper due
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
